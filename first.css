@@ -464,12 +464,11 @@ section a{
       color: rgb(4, 11, 12);
       border-radius: 20%;
   }
-
-  .footer{
+.footer{
     width:100%;
     background: #00121b;
     display: block;
-    padding: 20px;
+   
     justify-content: left;
 }
 .footer-items{
